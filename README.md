@@ -40,8 +40,6 @@ Created new features:
 
 FamilySize = SibSp + Parch + 1
 
-IsAlone = 1 if FamilySize == 1
-
 Title extracted from Name
 
 AgeBin, FareBin using quantile binning
